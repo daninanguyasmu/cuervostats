@@ -19,3 +19,4 @@ def stats_to_excel(stats, match_info):
     df = pd.DataFrame(stats)
     m_date = str(match_info['datetime']).replace(":", "-")
     df.to_excel(f'{match_info['name']}--{match_info['category']} {match_info['division']}--{m_date}.xlsx', index=False)
+    return f'{match_info['name']}--{match_info['category']} {match_info['division']}--{m_date}.xlsx'

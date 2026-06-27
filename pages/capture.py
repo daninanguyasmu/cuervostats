@@ -81,7 +81,18 @@ st.write(f"{category} - {division} - {datetime}")
 players = dm.players_recovery(category, division)
 
 if st.button("Guardar estadísticas"):
-    dm.stats_to_excel(create_list_of_dicts(players), match_info_dict)
+    file_name = dm.stats_to_excel(create_list_of_dicts(players), match_info_dict)
+
+    with open(file_name, "rb") as f:
+        bytes_data = f.read()
+
+    st.download_button(
+        "Descargar Reporte de Excel",
+        bytes_data,
+        file_name,
+        "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    )
+
 
 if not players:
     st.write("⚠️ No se encontraron jugadores")
