@@ -1,8 +1,12 @@
 import streamlit as st
-from streamlit import subheader
+
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 import data_manager as dm
-from data_manager import stats_to_excel
+
 
 match_name = st.session_state['actual_match']
 category = st.session_state['actual_category']
