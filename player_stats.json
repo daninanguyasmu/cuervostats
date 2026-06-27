@@ -1,0 +1,58 @@
+[
+  {
+    "player_id": 1,
+    "match_id": 1234,
+    "stats":
+    {
+      "minutes_played": 18,
+      "2FG":
+        {
+          "attempts": 4,
+          "made": 1
+        },
+      "3FG":
+        {
+          "attempts": 2,
+          "made": 1
+        },
+      "FT":
+        {
+          "attempts": 1,
+          "made": 1
+        },
+      "assists": 3,
+      "steals": 0,
+      "blocks": 0,
+      "turnovers": 0,
+      "fouls": 2
+    }
+  },
+  {
+    "player_id": 2,
+    "match_id": 1234,
+    "stats":
+    {
+      "minutes_played": 20,
+      "2FG":
+        {
+          "attempts": 10,
+          "made": 4
+        },
+      "3FG":
+        {
+          "attempts": 3,
+          "made": 2
+        },
+      "FT":
+        {
+          "attempts": 4,
+          "made": 3
+        },
+      "assists": 2,
+      "steals": 1,
+      "blocks": 0,
+      "turnovers": 3,
+      "fouls": 4
+    }
+  }
+]

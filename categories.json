@@ -1,0 +1,258 @@
+[
+  {
+    "category": "Micro",
+    "division": "Mixto",
+    "players": [
+      {
+        "number": 1,
+        "name": "SANTIAGO COUTIÑO"
+      },
+      {
+        "number": 2,
+        "name": "LUIS RONALDO"
+      },
+      {
+        "number": 3,
+        "name": "ALEJANDRO MOLINA"
+      },
+      {
+        "number": 4,
+        "name": "GAEL TIBURCIO"
+      },
+      {
+        "number": 5,
+        "name": "JOSÉ LUIS RODRIGUEZ"
+      },
+      {
+        "number": 6,
+        "name": "MATIAS CALEB SALAZAR"
+      },
+      {
+        "number": 7,
+        "name": "MARIA JOSÉ VERA"
+      },
+      {
+        "number": 8,
+        "name": "SOFIA SAUCEDO"
+      },
+      {
+        "number": 9,
+        "name": "VALENTINA SANTIAGO"
+      },
+      {
+        "number": 10,
+        "name": "YUSEF CHANDOQUI"
+      },
+      {
+        "number": 11,
+        "name": "DAMIAN RAMÍREZ"
+      },
+      {
+        "number": 12,
+        "name": "EMILIANO AMBROCIO"
+      },
+      {
+        "number": 13,
+        "name": "ANA MARTÍNEZ"
+      }
+    ]
+  },
+  {
+    "category": "Infantil",
+    "division": "Mixto",
+    "players":[
+      {
+        "number": 1,
+        "name": "ETHAN DE LOS SANTOS"
+      },
+      {
+        "number": 2,
+        "name": "MANUEL CRUZ"
+      },
+      {
+        "number": 3,
+        "name": "LUIS ALEJANDRO"
+      },
+      {
+        "number": 4,
+        "name": "PATRICIO MOGUEL"
+      },
+      {
+        "number": 5,
+        "name": "ALEXA HERNANDEZ"
+      },
+      {
+        "number": 6,
+        "name": "SOFIA LÓPEZ"
+      },
+      {
+        "number": 7,
+        "name": "ANDREA AGUILAR"
+      },
+      {
+        "number": 8,
+        "name": "JARED VAZQUEZ"
+      },
+      {
+        "number": 9,
+        "name": "EMILIANO ESTRADA"
+      },
+      {
+        "number": 10,
+        "name": "ALLISON SANTIAGO"
+      },
+      {
+        "number": 11,
+        "name": "NATAN ESPONDA"
+      },
+      {
+        "number": 12,
+        "name": "SANTIAGO DE LA CRUZ"
+      },
+      {
+        "number": 13,
+        "name": "GAEL TIBURCIO"
+      },
+      {
+        "number": 14,
+        "name": "JOSÉ LUIS RODRIGUEZ"
+      },
+      {
+        "number": 15,
+        "name": "MARIA JOSÉ VERA"
+      },
+      {
+        "number": 16,
+        "name": "YUSEF CHANDOQUI"
+      },
+      {
+        "number": 17,
+        "name": "JUAN ESPINOZA"
+      },
+      {
+        "number": 18,
+        "name": "SANTIAGO COUTIÑO"
+      },
+      {
+        "number": 19,
+        "name": "LUIS RONALDO"
+      }
+    ]
+  },
+  {
+    "category": "Pasarela",
+    "division": "Mixto",
+    "players": [
+      {
+        "number": 1,
+        "name": "SANTIAGO TRUJILLO"
+      },
+      {
+        "number": 2,
+        "name": "ROMY RUIZ"
+      },
+      {
+        "number": 3,
+        "name": "XAVIER GUZMÁN"
+      },
+      {
+        "number": 4,
+        "name": "ALEXANDRO NANGUYASMU"
+      },
+      {
+        "number": 5,
+        "name": "XHUNASHI GUZMÁN"
+      },
+      {
+        "number": 6,
+        "name": "ISABELLA CASTILLEJOS"
+      },
+      {
+        "number": 7,
+        "name": "IRIS HERNANDEZ"
+      },
+      {
+        "number": 8,
+        "name": "REGINA GARCÍA"
+      },
+      {
+        "number": 9,
+        "name": "ITAN ANDRES"
+      },
+      {
+        "number": 10,
+        "name": "ELIAN CORONADO"
+      },
+      {
+        "number": 11,
+        "name": "ETHAN DE LOS SANTOS"
+      },
+      {
+        "number": 12,
+        "name": "MANUEL CRUZ"
+      },
+      {
+        "number": 13,
+        "name": "LUIS ALEJANDRO"
+      },
+      {
+        "number": 14,
+        "name": "ALEXA HERNANDEZ"
+      },
+      {
+        "number": 15,
+        "name": "JARED VAZQUEZ"
+      },
+      {
+        "number": 16,
+        "name": "EMILIANO ESTRADA"
+      }
+    ]
+  },
+  {
+    "category": "Juvenil Menor",
+    "division": "Varonil",
+    "players": [
+      {
+        "number": 1,
+        "name": "DANIEL NANGUYASMÚ"
+      },
+      {
+        "number": 2,
+        "name": "PAOLO CHAVERO"
+      },
+      {
+        "number": 3,
+        "name": "MARIO HERNANDEZ"
+      },
+      {
+        "number": 4,
+        "name": "ALEX NANGUELÚ"
+      },
+      {
+        "number": 5,
+        "name": "DIDIER MORALES"
+      },
+      {
+        "number": 6,
+        "name": "ABEL LÓPEZ"
+      },
+      {
+        "number": 7,
+        "name": "RODRIGO NANGUYASMU"
+      },
+      {
+        "number": 8,
+        "name": "MATEO ZAVALA"
+      },
+      {
+        "number": 9,
+        "name": "EMILIANO RODRIGUEZ"
+      },
+      {
+        "number": 10,
+        "name": "RAFAEL CRUZ"
+      }
+    ]
+  }
+]
