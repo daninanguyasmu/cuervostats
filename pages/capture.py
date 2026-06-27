@@ -81,7 +81,7 @@ st.write(f"{category} - {division} - {datetime}")
 players = dm.players_recovery(category, division)
 
 if st.button("Guardar estadísticas"):
-    stats_to_excel(create_list_of_dicts(players), match_info_dict)
+    dm.stats_to_excel(create_list_of_dicts(players), match_info_dict)
 
 if not players:
     st.write("⚠️ No se encontraron jugadores")
