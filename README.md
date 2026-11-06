@@ -25,6 +25,12 @@ CuervosStats is an interactive, real-time web application built with Python and 
 *   `data_manager.py`: Core logic for data retrieval and Excel export processing.
 *   `categories.json`: Centralized database of athlete rosters segmented by division.
 
+## 💻 Live Demo
+
+You can try out the live application [here](https://cuervostats.streamlit.app/).
+
+*Note: The system is currently configured with active rosters for the following club divisions: **Micro Mixto, Infantil Mixto, Pasarela Mixto, Juvenil Menor Varonil**.*
+
 ## ⚙️ Local Development Setup
 
 ### 1. Clone the repository
